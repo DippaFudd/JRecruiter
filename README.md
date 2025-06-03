@@ -3,8 +3,8 @@
 A modern job search and recruitment platform built with Next.js and TypeScript.
 
 ## Screenshots 
-![Image Alt]()
-![Image Alt]()
+![Image Alt](https://github.com/DippaFudd/JRecruiter/blob/7dff0d9750d0e49f4507a5f05b1dea0bcf976e32/2025-06-02%20(4).png)
+![Image Alt](https://github.com/DippaFudd/JRecruiter/blob/7dff0d9750d0e49f4507a5f05b1dea0bcf976e32/2025-06-02%20(5).png)
 
 ## 🚀 Features
 
